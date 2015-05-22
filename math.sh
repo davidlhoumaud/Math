@@ -1,8 +1,8 @@
 #! /bin/bash
   
 function _help () {
-    echo "MATH version 0.4 by BeHuman
-GNU/GPL v3
+    echo "MATH version 0.4 by David Lhoumaud
+GNU/GPL v2
 Usage:
     math [OPTION] [FORMULE or FILE] [SUBOPTION]
   
